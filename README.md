@@ -1,5 +1,12 @@
 ## 📄 Certificates
 
+### Java Programming Masterclass
+**Issued:** May 2025  
+[View Certificate](https://www.udemy.com/certificate/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0)  
+[View PDF](/pdf/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0.pdf)  
+
+---
+
 ### Practical Software Team Lead  
 **Issued:** October 2024  
 [View Certificate](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Team-Leader-Valentin-Peshev.pdf)  
