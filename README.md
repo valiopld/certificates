@@ -1,5 +1,12 @@
 ## 📄 Certificates
 
+### Python Programming Masterclass  
+**Issued:** May 2025  
+[View Certificate](https://www.udemy.com/certificate/UC-11790866-44b5-4940-97e5-243698d058d2)  
+[View PDF](/pdf/UC-11790866-44b5-4940-97e5-243698d058d2.pdf)  
+
+---
+
 ### Java Programming Masterclass
 **Issued:** May 2025  
 [View Certificate](https://www.udemy.com/certificate/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0)  
