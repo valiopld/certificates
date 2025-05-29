@@ -1,5 +1,12 @@
 ## 📄 Certificates
 
+### The Complete JavaScript Course  
+**Issued:** May 2025  
+[View Certificate](https://www.udemy.com/certificate/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e)  
+[View PDF](/pdf/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e.pdf)  
+
+---
+
 ### Python Programming Masterclass  
 **Issued:** May 2025  
 [View Certificate](https://www.udemy.com/certificate/UC-11790866-44b5-4940-97e5-243698d058d2)  
