@@ -1,5 +1,12 @@
 ## 📄 Certificates
 
+### Go: The Complete Developer's Guide (Golang)  
+**Issued:** June 2025  
+[View Certificate](https://www.udemy.com/certificate/UC-0c11220f-4f7c-46d6-b182-f45692482f6c)  
+[View PDF](/pdf/UC-0c11220f-4f7c-46d6-b182-f45692482f6c.pdf)  
+
+---
+
 ### The Complete JavaScript Course  
 **Issued:** May 2025  
 [View Certificate](https://www.udemy.com/certificate/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e)  
