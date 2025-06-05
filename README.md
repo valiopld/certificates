@@ -2,47 +2,61 @@
 
 ### Go: The Complete Developer's Guide (Golang)  
 **Issued:** June 2025  
-[View Certificate](https://www.udemy.com/certificate/UC-0c11220f-4f7c-46d6-b182-f45692482f6c)  
-[View PDF](/pdf/UC-0c11220f-4f7c-46d6-b182-f45692482f6c.pdf)  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-0c11220f-4f7c-46d6-b182-f45692482f6c) | 
+[PDF](/pdf/UC-0c11220f-4f7c-46d6-b182-f45692482f6c.pdf)  
 
 ---
 
 ### The Complete JavaScript Course  
 **Issued:** May 2025  
-[View Certificate](https://www.udemy.com/certificate/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e)  
-[View PDF](/pdf/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e.pdf)  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e) |
+[PDF](/pdf/UC-0eaf7682-d13c-429c-9912-6db3f9c9df6e.pdf)  
 
 ---
 
 ### Python Programming Masterclass  
 **Issued:** May 2025  
-[View Certificate](https://www.udemy.com/certificate/UC-11790866-44b5-4940-97e5-243698d058d2)  
-[View PDF](/pdf/UC-11790866-44b5-4940-97e5-243698d058d2.pdf)  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-11790866-44b5-4940-97e5-243698d058d2) |
+[PDF](/pdf/UC-11790866-44b5-4940-97e5-243698d058d2.pdf)  
 
 ---
 
 ### Java Programming Masterclass
 **Issued:** May 2025  
-[View Certificate](https://www.udemy.com/certificate/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0)  
-[View PDF](/pdf/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0.pdf)  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0) | 
+[PDF](/pdf/UC-42944ce9-0ebc-41e6-9270-4fce87ad2da0.pdf)  
 
 ---
 
 ### Practical Software Team Lead  
 **Issued:** October 2024  
-[View Certificate](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Team-Leader-Valentin-Peshev.pdf)  
-[View PDF](/pdf/Certificate-Team-Leader-Valentin-Peshev.pdf)
+**Platform:** Cost-Effective Solutions  
+
+[URL](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Team-Leader-Valentin-Peshev.pdf) |
+[PDF](/pdf/Certificate-Team-Leader-Valentin-Peshev.pdf)
 
 ---
 
 ### Google Data Analytics
 **Issued:** August 2023  
-[View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/V6ZZ2UT6R3F4)  
-[View PDF](/pdf/Coursera%20V6ZZ2UT6R3F4.pdf)
+**Platform:** Coursera  
+  
+[URL](https://www.coursera.org/account/accomplishments/professional-cert/V6ZZ2UT6R3F4) |
+[PDF](/pdf/Coursera%20V6ZZ2UT6R3F4.pdf)
 
 ---
 
 ### Complete React Developer (Redux, Hooks, GraphQL)
 **Issued:** May 2020  
-[View Certificate](https://www.udemy.com/certificate/UC-e3159a25-3144-4709-8e46-c8d9b1825110/)  
-[View PDF](/pdf/UC-e3159a25-3144-4709-8e46-c8d9b1825110.pdf)
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-e3159a25-3144-4709-8e46-c8d9b1825110/) |
+[PDF](/pdf/UC-e3159a25-3144-4709-8e46-c8d9b1825110.pdf)
