@@ -1,5 +1,15 @@
 ## 📄 Certificates
 
+
+### The Complete SQL Bootcamp  
+**Issued:** June 2025  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-6a640177-e7ce-4345-897e-0a0446f95571) | 
+[PDF](/pdf/UC-6a640177-e7ce-4345-897e-0a0446f95571.pdf)  
+
+---
+
 ### Go: The Complete Developer's Guide (Golang)  
 **Issued:** June 2025  
 **Platform:** Udemy  
