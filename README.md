@@ -1,5 +1,13 @@
 ## 📄 Certificates
 
+### C and C++ (Beginner to Advance) 
+**Issued:** July 2025  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-b9be60b2-176c-408d-8b86-4bdb830e7854) | 
+[PDF](/pdf/UC-b9be60b2-176c-408d-8b86-4bdb830e7854.pdf)  
+
+---
 
 ### The Complete SQL Bootcamp  
 **Issued:** June 2025  
