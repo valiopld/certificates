@@ -1,6 +1,15 @@
 ## 📄 Certificates
 
-### C and C++ (Beginner to Advance) 
+### Complete C# Programming Master Class  
+**Issued:** August 2025  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-e7640218-8e87-49ca-81d9-bf4eb4d7cc98) | 
+[PDF](/pdf/UC-e7640218-8e87-49ca-81d9-bf4eb4d7cc98.pdf)  
+
+---
+
+### C and C++ (Beginner to Advance)  
 **Issued:** July 2025  
 **Platform:** Udemy  
 
