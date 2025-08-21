@@ -1,5 +1,14 @@
 ## 📄 Certificates
 
+### PHP From Scratch | Beginner To Advanced
+**Issued:** August 2025  
+**Platform:** Udemy  
+
+[URL](https://www.udemy.com/certificate/UC-98831cbd-8b2a-45ac-831a-9e1e64e0e027) | 
+[PDF](/pdf/UC-98831cbd-8b2a-45ac-831a-9e1e64e0e027.pdf)  
+
+---
+
 ### Complete C# Programming Master Class  
 **Issued:** August 2025  
 **Platform:** Udemy  
